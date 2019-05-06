@@ -13,6 +13,16 @@ export default class App extends Component {
     {
       songs:[
       {
+        id:1,
+        url:'https://hiphopshuffle.net/wp-content/uploads/2019/04/LIL_DICKY_-_EARTH_Hiphopshuffle.net.mp3',
+        coverImg: 'https://t2.genius.com/unsafe/440x440/https%3A%2F%2Fimages.genius.com%2F60d3d01611f16283ab3388ed34210652.1000x1000x1.jpg',
+        song: 'Earth',
+        album: 'LD2',
+        artist: 'Lil Dicky',
+        year: '2019',
+        generes: [],
+      },
+      {
         id:2,
         url:'http://files2.earmilk.com/upload/mp3/2011-02/childishgambin-freaksngeeks.mp3',
         coverImg: 'https://t2.genius.com/unsafe/600x600/https%3A%2F%2Fimages.genius.com%2Fbe9197ecbcd58f7631a1c17709d6dff2.500x500x1.jpg',

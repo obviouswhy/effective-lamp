@@ -12,6 +12,7 @@ state={
     songs:[
       {
         id:1,
+        url:'https://hiphopshuffle.net/wp-content/uploads/2019/04/LIL_DICKY_-_EARTH_Hiphopshuffle.net.mp3',
         coverImg: 'https://t2.genius.com/unsafe/440x440/https%3A%2F%2Fimages.genius.com%2F60d3d01611f16283ab3388ed34210652.1000x1000x1.jpg',
         song: 'Earth',
         album: 'LD2',
